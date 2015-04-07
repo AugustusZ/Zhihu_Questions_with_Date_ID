@@ -24,6 +24,7 @@ ID (Date) | Question
 --------- | --------
 ```
 
+The result in `result.md` was collected on April 1st, 2015.
 
 [^1]: [【「知乎一号问题」的编号为何是19550225？这是在向1955年2月24日出生的乔布斯致敬吗？】匿名用户的回答](http://zhi.hu/iYRW)
 
