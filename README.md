@@ -3,7 +3,7 @@
 This repo is to
 list the [知乎(zhihu)](zhihu.com) questions whose ID is a date, e.g. today `20150407`.
 
-According to the answer to the question [知乎上的第一个问题是什么？](http://www.zhihu.com/question/20415740), the first ID of Zhihu questions is `19550225`. However, the ID number of the questions are not continuous, with a random interval from `1` to `4`.[^1] So I import the library ` RCurl` and use
+According to the answer to the question [知乎上的第一个问题是什么？](http://www.zhihu.com/question/20415740), the first ID of Zhihu questions is `19550225`. However, the ID number of the questions are not continuous, with a random interval from `1` to `4`.[See this](http://zhi.hu/iYRW) So I import the library ` RCurl` and use
 
 ```
 url.exists(Q_url)
